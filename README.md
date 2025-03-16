@@ -36,7 +36,7 @@ statements in SQL to ensure seamless data management and retrieval.
 ## 🛠 Current Stack
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 - ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=power-bi&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
-- ![Power Automate](https://img.shields.io/badge/Power%20Automate-742774?style=for-the-badge&logo=power-bi&logoColor=white) - ![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=web&logoColor=white)
+- ![Power Automate](https://img.shields.io/badge/Power%20Automate-742774?style=for-the-badge&logo=power-bi&logoColor=white)  ![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=web&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
 ### Connect with Me
 <p align="left">
